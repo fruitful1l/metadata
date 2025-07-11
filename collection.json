@@ -1,8 +1,8 @@
+
 {
-  "name": "TONiess",
-  "description": "Exclusive tonies collection",
-  "image": "https://raw.githubusercontent.com/fruitful1l/metadata/refs/heads/main/istockphoto-1269703329-612x612.jpg",
-  "social_links": [
-    "https://t.me/fruitfu11",
-  ]
+   "image": "https://raw.githubusercontent.com/fruitful1l/metadata/refs/heads/main/istockphoto-1269703329-612x612.jpg",
+   "name": "TONiess",
+   "description": "TON Smart Challenge",
+   "social_links": [],
+   "marketplace": "getgems.io"
 }
